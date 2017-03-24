@@ -1,0 +1,6 @@
+F:\CSharp\MyExamples\TaskFactoryTest\TaskFactoryTest\bin\Debug\TaskFactoryTest.exe.config
+F:\CSharp\MyExamples\TaskFactoryTest\TaskFactoryTest\bin\Debug\TaskFactoryTest.exe
+F:\CSharp\MyExamples\TaskFactoryTest\TaskFactoryTest\bin\Debug\TaskFactoryTest.pdb
+F:\CSharp\MyExamples\TaskFactoryTest\TaskFactoryTest\obj\Debug\TaskFactoryTest.csprojResolveAssemblyReference.cache
+F:\CSharp\MyExamples\TaskFactoryTest\TaskFactoryTest\obj\Debug\TaskFactoryTest.exe
+F:\CSharp\MyExamples\TaskFactoryTest\TaskFactoryTest\obj\Debug\TaskFactoryTest.pdb
